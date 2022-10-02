@@ -1,0 +1,5 @@
+local VLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vep1032/VepStuff/main/VL"))()
+
+local s = VLib:Window("Edit of Kodescripts  script ", "Welcome!", "Pro")
+
+local Main = s:Tab("Main")
